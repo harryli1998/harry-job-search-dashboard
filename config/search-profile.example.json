@@ -1,0 +1,14 @@
+{
+  "timezone": "America/Los_Angeles",
+  "role_families": {
+    "business_data": ["Business Analyst", "Data Analyst", "BI Analyst"],
+    "growth_marketing": ["Growth Analyst", "Marketing Analyst", "Advertising Analyst"],
+    "product_revenue": ["Product Analyst", "Revenue Analyst", "Monetization Analyst"],
+    "gtm_strategy": ["GTM Analyst", "Sales Strategy Analyst", "Strategy and Operations Analyst"]
+  },
+  "location_groups": ["San Francisco Bay Area", "New York", "Remote United States", "Atlanta", "Dallas Plano Irving Frisco", "Charlotte", "United States"],
+  "work_authorization": null,
+  "experience_years": null,
+  "start_availability": null,
+  "policy": {"primary_experience_range": "0–2 years", "three_year_roles": "review individually", "four_plus_year_roles": "exclude", "explicit_no_sponsorship": "exclude", "unknown_sponsorship": "verify; not an automatic rejection"}
+}

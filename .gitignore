@@ -23,3 +23,7 @@
 node_modules/
 !package.json
 !package-lock.json
+
+# Public generic defaults only. All actual candidate details stay in .local/.
+!config/search-profile.example.json
+!demo/index.html
